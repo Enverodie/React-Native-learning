@@ -4,3 +4,16 @@ If you don't have npm installed, you have to install it first!
 
 Any JavaScript file you want to be rendered with React.js must be exported using export default NameOfMainClassorFunction.
 It must then be imported into App.js or equivalent parent script using import NameOfMainClassorFunction from './NameOfScript'
+
+
+Other notes:
+npm is a package manager for javascript, just like pip is a package manager for Python.
+
+
+#If you find out the answers to any of these questions before the next meet, please commit a change to this document explaining in the notes! This will save us time.
+Also, feel free to add more items to the todo list!
+
+TODO for next Wednesday (in order of priority):
+* Find out how to convert a React project to React Native. Is it a complex process? Which should be emphasized?
+* Ensure everyone has a working React project tree. Create a basic new UI from scratch, removing the non-essential React source code.
+* Find out how React interacts with HTML. How is React executed? How does the client interact with it?
