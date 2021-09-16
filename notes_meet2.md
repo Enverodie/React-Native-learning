@@ -6,6 +6,9 @@ Any JavaScript file you want to be rendered with React.js must be exported using
 It must then be imported into App.js or equivalent parent script using import NameOfMainClassorFunction from './NameOfScript'
 
 
+According to Zach, REACT =/= REACT NATIVE. You CANNOT convert a react project to react native, as they are programmed entirely differently.
+React is learned first because it helps users understand how to write HTML style script without it actually being HTML.
+
 Other notes:
 npm is a package manager for javascript, just like pip is a package manager for Python.
 
@@ -14,6 +17,5 @@ npm is a package manager for javascript, just like pip is a package manager for 
 Also, feel free to add more items to the todo list!
 
 TODO for next Wednesday (in order of priority):
-* Find out how to convert a React project to React Native. Is it a complex process? Which should be emphasized?
 * Ensure everyone has a working React project tree. Create a basic new UI from scratch, removing the non-essential React source code.
 * Find out how React interacts with HTML. How is React executed? How does the client interact with it?
