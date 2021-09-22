@@ -16,6 +16,10 @@ npm is a package manager for javascript, just like pip is a package manager for 
 #If you find out the answers to any of these questions before the next meet, please commit a change to this document explaining in the notes! This will save us time.
 Also, feel free to add more items to the todo list!
 
-TODO for next Wednesday (in order of priority):
+#TODO for next Wednesday (in order of priority):
 * Ensure everyone has a working React project tree. Create a basic new UI from scratch, removing the non-essential React source code.
 * Find out how React interacts with HTML. How is React executed? How does the client interact with it?
+* Modify the notes_meet3.md file to reflect the collaborative findings of the group regarding:
+  * General installation instructions (or links to a good source)
+  * React execution (see bullet #2)
+  * Other general interesting/notable findings
