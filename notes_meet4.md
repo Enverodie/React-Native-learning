@@ -16,7 +16,8 @@ In order to install the "Expo CLI command-line utility" (a program you need to r
 then to launch the app, use `npm start` or `expo start` starts the task
 
 
-
 ## Other notes (feel free to delete this if nothing is included here):
+
+The view element is like the equivalent of body in HTML.
 
 # TODO for week 5:
