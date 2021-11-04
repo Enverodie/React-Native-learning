@@ -16,6 +16,6 @@ Additional note on FlatList: Unlike ScrollView components, one cannot simply cal
 </Flatlist>
 ```
 
-in order to scroll. Instead, you must itemize the component's props in an array, which the FlatList can then use to map to your <Component />. If you're unsure how to do this, read [the documentation](https://reactnative.dev/docs/flatlist) or ask Stephen during one of the meets.
+in order to scroll. Instead, you must itemize the component's props in an array, which the FlatList can then use to map to your `<Component />.` If you're unsure how to do this, read [the documentation](https://reactnative.dev/docs/flatlist) or ask Stephen during one of the meets.
 
 # TODO for week 8:
